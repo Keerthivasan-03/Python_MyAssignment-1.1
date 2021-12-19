@@ -1,6 +1,5 @@
 #logical operators:
-    
-#and
+   
 x=6
 y=8
 z=10
